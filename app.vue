@@ -4,7 +4,7 @@
 
 
 
-    <h1 class="text-veryCool" text-xl lg:text-5xl font-sans>Hallo h</h1>
+    <h1 class="text-veryCool" text-xl lg:text-5xl font-sans>Hallo h2</h1>
     <h2 class="text-brand-primary">Hallo</h2>
     <p>tes</p>
     <button custom-shortcut>this is button</button>
